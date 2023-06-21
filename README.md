@@ -3,7 +3,7 @@
 ## Introduction
 O-GlcNAcPRED-DL is a tool to predict protein O-GlcNAcylation sites on an ensemble model of deep learning.
 
-websever: 
+Webserver is online, which is freely accessible at https://oglcnac.org/pred_dl/
 
 
 ## Directory
