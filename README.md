@@ -13,7 +13,7 @@ Webserver is online, which is freely accessible at https://oglcnac.org/pred_dl/
 
 [seq_cut] Given a protein sequence, peptide segments with a growth degree of 29 can be symmetrically truncated left and right centered around S/T.
 
-[test_data] The independent test set used in this experiment and the data of Arabidopsis, Caenorhabditis elegans, Drosophila, Rat, Wheat, and Others species in the cross species experiment.
+[test_data] The independent test set used in this experiment and the data of Arabidopsis, Caenorhabditis elegans, Drosophila, Rat, Wheat and Others species in the cross species experiment.
 
 
 ## Usage
