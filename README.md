@@ -7,7 +7,7 @@ Webserver is online, which is freely accessible at https://oglcnac.org/pred_dl/
 
 
 ## Directory
-[feature] Used for encoding, which contain AAindex encoding method and Word2Vec encoding method. 
+[feature] Used for encoding, which contain AAindex_gly encoding method and Word2Vec encoding method. 
 
 [model] Models trained for Human and Mouse respectively(namely O-GlcNAcPRED-DL). 
 
